@@ -1,2 +1,9 @@
 # just-system
 just justfile
+
+## src
+- [just system web](https://just.systems/man/en/introduction.html)
+- [gh](https://github.com/casey/just)
+
+## useful concepts
+- [working dir](https://just.systems/man/en/working-directory.html) - how to run recipe in dir which `just` was invoked.
