@@ -6,4 +6,4 @@ just justfile
 - [gh](https://github.com/casey/just)
 
 ## useful concepts
-- [working dir](https://just.systems/man/en/working-directory.html) - how to run recipe in dir which `just` was invoked.
+- [working dir](https://just.systems/man/en/working-directory.html) - how to run recipe in dir which `just` was invoked. You can also everride the working directory.
